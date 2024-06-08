@@ -278,16 +278,15 @@
         }
 
         main section.section-1 .section-1-main .section-1-content .section-1-links {
-          
-            display: flex;
-            align-items: center;
+         
+            
             column-gap: 36px;
             width: 100%;
         }
 
         main section.section-1 .section-1-main .section-1-content .section-1-links .section-1-link {
             text-align: center;
-            padding: 10px;
+            padding: 15px;
             border-radius: 5px;
             text-decoration: none;
             color: #fff;
