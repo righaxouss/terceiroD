@@ -275,6 +275,7 @@
         }
 
         main section.section-1 .section-1-main .section-1-content .section-1-links {
+            padding: 20px;
             display: flex;
             align-items: center;
             column-gap: 25px;
