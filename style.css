@@ -286,11 +286,13 @@
         }
 
         main section.section-1 .section-1-main .section-1-content .section-1-links .section-1-link {
-            padding: 13px;
+            text-align: center;
+            padding: 10px;
             border-radius: 5px;
             text-decoration: none;
             color: #fff;
             background-color: #664efc;
+            width: 160px;
         }
 
         main section.section-1 .section-1-main .section-1-content .section-1-imgs img {
