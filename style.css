@@ -10,7 +10,7 @@
         body {
             width: 100%;
             height: auto;
-            background: #232323;
+            background: #0E0E0E;
             color: #E6E6E6;
         }
 
@@ -281,12 +281,12 @@
           
             display: flex;
             align-items: center;
-            column-gap: 40px;
+            column-gap: 36px;
             width: 100%;
         }
 
         main section.section-1 .section-1-main .section-1-content .section-1-links .section-1-link {
-            padding: 12px 38px;
+            padding: 13px;
             border-radius: 5px;
             text-decoration: none;
             color: #fff;
