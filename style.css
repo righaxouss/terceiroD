@@ -100,7 +100,11 @@
             align-items: center;
             justify-content: center;
             row-gap: 50px;
+
         }
+
+
+      
 
         footer .footer-main .footer-content {
             display: flex;
@@ -257,6 +261,13 @@
             color: #E6E6E6;
         }
 
+        main section.section-1 .section-1-main .section-1-content .section-1-title1 {
+            font-size: 2.1em;
+            
+            color: #E6E6E6;
+        }
+
+
         main section.section-1 .section-1-main .section-1-content .section-1-desc,
         main section.section-1 .section-1-main .section-1-content .section-1-alt-txt {
             color: #E6E6E6;
@@ -320,6 +331,7 @@
 
         main section.section-2 .section-2-main .section-2-2 .section-2-2-content,
         main section.section-2 .section-2-main .section-2-1 .section-2-1-content {
+            
             width: 60%;
             display: flex;
             flex-direction: column;
@@ -328,6 +340,7 @@
 
         main section.section-2 .section-2-main .section-2-2 .section-2-2-content .section-2-2-title,
         main section.section-2 .section-2-main .section-2-1 .section-2-1-content .section-2-1-title {
+           
             font-size: 36px;
             line-height: 40px;
         }
@@ -346,6 +359,7 @@
             color: #664efc;
             background-color: #fff;
             width: fit-content;
+         
         }
 
         main section.section-2 .section-2-main .section-2-2 .section-2-2-img,
