@@ -10,13 +10,14 @@
         body {
             width: 100%;
             height: auto;
-            background-color: #252525;
+            background-color: white;
             color: #E6E6E6;
         }
 
 main{
 
-    margin: 0px 20px 0px 20px;
+    margin: 0px 30px 0px 30px;
+    
 
 }
 
