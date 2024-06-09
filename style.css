@@ -86,7 +86,7 @@ nav{
            
             color: #fff;
             font-weight: 600;
-            background-color: #664efc;
+            background-color: #4653CE;
             margin-left: 10px;
         }
 
@@ -298,7 +298,7 @@ nav{
             border-radius: 5px;
             text-decoration: none;
             color: #fff;
-            background-color: #664efc;
+            background-color: #4653CE;
             width: 190px;
         }
 
@@ -324,6 +324,7 @@ nav{
 
 
         main section.section-2 {
+           
             padding: 75px 0px 75px 0px;
         }
 
