@@ -204,14 +204,14 @@ nav{
 
         main section {
             
-            background: #232323;
+            
             width: 100%;
             display: flex;
             justify-content: center;
         }
 
         main section.section-1 {
-            background: #232323;
+            
           
             padding: 35px 0px 70px 0px;
             flex-direction: column;
@@ -223,14 +223,14 @@ nav{
         main section.section-1 nav {
             width: 80%;
             padding: 25px 0px;
-            display: flex;
+           
             justify-content: center;
             background: transparent;
         }
 
         main section.section-1 nav .nav-main {
             width: 100%;
-            display: flex;
+           
             align-items: center;
             justify-content: space-between;
             position: relative;
